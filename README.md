@@ -1,4 +1,5 @@
 📊 Automated Data Analysis Project
+
 📌 Overview
 
 This project is an automated data analysis system built using Python. It processes CSV datasets and automatically generates structured reports and visualizations without manual intervention.
