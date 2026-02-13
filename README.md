@@ -19,6 +19,7 @@ Automatic CSV loading with encoding fallback (UTF-8 / Latin-1)
 Compatible with uv for dependency management
 
 ⚙️ Project Workflow
+
 1️⃣ Dataset Input
 
 The user provides a CSV file when running the script.
